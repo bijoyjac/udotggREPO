@@ -16,3 +16,5 @@ driver.get("https://u.gg/lol/tier-list")
 driver.switch_to.frame('sp_message_iframe_633208')
 accept_cookies = driver.find_element_by_xpath('//*[@id="notice"]/div[5]/button[2]').click()
 driver.maximize_window()
+
+# superstar mammooty
