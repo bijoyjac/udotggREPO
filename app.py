@@ -28,7 +28,6 @@ def parsing(driver, lane):
     for item in items:
         champ = item.text
         print(champ)
-        print(type(item))
 
 
 # for i in range(5)
